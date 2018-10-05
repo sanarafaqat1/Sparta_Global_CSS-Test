@@ -1,0 +1,15 @@
+body {
+  background-color: salmon;
+}
+table {
+  border: solid red 1px;
+}
+tr {
+  border: solid red 1px;
+}
+.second {
+  color: red;
+}
+.second p{
+  color: blue;
+}
